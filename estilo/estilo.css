@@ -1,108 +1,108 @@
 @charset "UTF-8";
 
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
-        @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
 
-        * {
-            margin: 0;
-            padding: 0;
-        }
+* {
+    margin: 0;
+    padding: 0;
+}
 
-        body {
-            height: 100%;
-            background-image: url('../imagens/outlook.jpg');
-            background-repeat: no-repeat;
-            background-position: top center;
-            background-size: cover;
-            text-align: center;
-            color: white;
-        }
+body {
+    height: 100%;
+    background-image: url('../imagens/outlook.jpg');
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: cover;
+    text-align: center;
+    color: white;
+}
 
-        header > h1 {
-            padding-top: 95px;
-            padding-bottom: 40px;
-            font-family: 'Playfair Display', serif;
-            font-size: 3.5em;
-        }
+header > h1 {
+    padding-top: 95px;
+    padding-bottom: 40px;
+    font-family: 'Playfair Display', serif;
+    font-size: 3.5em;
+}
 
-        header p {
-            font-family: 'Lato', sans-serif;
-            font-size: 1.2em;
-            max-width: 650px;
-            padding-bottom: 40px;
-            margin: auto;
-        }
+header p {
+    font-family: 'Lato', sans-serif;
+    font-size: 1.2em;
+    max-width: 650px;
+    padding-bottom: 40px;
+    margin: auto;
+}
 
-        header > a {
-            padding-bottom: 40px;
-        }
+header > a {
+    padding-bottom: 40px;
+}
 
-        div#botoes {
-            font-size: 1em;
-            padding: 10px;
-            text-transform: uppercase;
-        }
+div#botoes {
+    font-size: 1em;
+    padding: 10px;
+    text-transform: uppercase;
+}
 
-        div#botoes a {
-            color: white;
-            text-decoration: none;
-        }
+div#botoes a {
+    color: white;
+    text-decoration: none;
+}
 
-        div#botoes .bt01 {
-            background-color: #AE986E;
-            padding: 15px 20px;
-            border-radius: 25px;
-            margin-right: 20px;
-        }
+div#botoes .bt01 {
+    background-color: #AE986E;
+    padding: 15px 20px;
+    border-radius: 25px;
+    margin-right: 20px;
+}
 
-        div#botoes .bt01:hover {
-            background-color: #9B8A60;
-        }
+div#botoes .bt01:hover {
+    background-color: #9B8A60;
+}
 
-        div#botoes .bt02 {
-            padding: 13px 20px;
-            border-radius: 25px;
-            border: 2px solid white;
-        }
+div#botoes .bt02 {
+    padding: 13px 20px;
+    border-radius: 25px;
+    border: 2px solid white;
+}
 
-        div#botoes .bt02:hover {
-            background-color: white;
-            color: black;
-        }
+div#botoes .bt02:hover {
+    background-color: white;
+    color: black;
+}
 
-        header > p.referencia {
-            padding-top: 40px;
-        }
+header > p.referencia {
+    padding-top: 40px;
+}
 
-        header > p.referencia > a {
-            color: white;
-        }
+header > p.referencia > a {
+    color: white;
+}
 
-        div.imagem {
-            padding-bottom: 60px;
-        }
+div.imagem {
+    padding-bottom: 60px;
+}
 
-        div.imagem > img{
-            padding: 10px;
-        }
+div.imagem > img{
+    padding: 10px;
+}
 
-        footer{
-            background-color: #333333;
-            height: 100px;
-            bottom: 0;
-            left: 0;
-            width: 100%;
-        }
+footer{
+    background-color: #333333;
+    height: 100px;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
 
-        footer p {
-            padding-top: 40px;
-        }
+footer p {
+    padding-top: 40px;
+}
 
-        footer a {
-            color: white;
-        }
+footer a {
+    color: white;
+}
 
-        footer a:hover {
-            text-decoration: none;
-            color: #807d7d;
-        }
+footer a:hover {
+    text-decoration: none;
+    color: #807d7d;
+}
