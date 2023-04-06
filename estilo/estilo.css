@@ -18,6 +18,10 @@
             color: white;
         }
 
+        main {
+            padding-bottom: 40px;
+        }
+
         header > h1 {
             padding-top: 95px;
             padding-bottom: 40px;
@@ -91,7 +95,7 @@
             height: 100px;
             bottom: 0;
             left: 0;
-            position: fixed;
+            position: relative;
             width: 100%;
         }
 
